@@ -1,6 +1,4 @@
-# Build and Deploy: X clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)
-
-![Fullstack X Clone (2)](https://user-images.githubusercontent.com/23248726/224405420-03112a76-250a-4283-992c-60e235170678.png)
+# Build and Deploy: X clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
 
 
 This is a repository for a FullStack X clone tutorial using React, NextJS, TailwindCSS & Prisma.
